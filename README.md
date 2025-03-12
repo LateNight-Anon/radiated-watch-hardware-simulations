@@ -1,2 +1,2 @@
 # radiated-watch-hardware-simulations
-(indev as a part of a school project, proper description and documentation will be provided later)
+old school project created in a group to simulate a pip-boy like piece of hardware that would act as a vitality meter, watch and geiger counter
